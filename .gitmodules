@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "spreadr"]
+	path = spreadr
+	url = https://github.com/csqsiew/spreadr
+	shallow = true
+	registered = true
